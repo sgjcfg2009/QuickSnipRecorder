@@ -1,0 +1,6 @@
+/target/
+/Build/
+/.rust/
+/.ffmpeg_dl/
+/ffmpeg.exe
+*.log
